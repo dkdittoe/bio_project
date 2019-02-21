@@ -5,11 +5,11 @@
 
 University of Arkansas, Fayetteville, Arkansas, Expected Fall 2020
 **Doctor of Philosophy in Cell and Molecular Biology: Concentration in Food Safety**
-*Cumulative GPA 4.0/4.0
+* Cumulative GPA 4.0/4.0
 
 Mississippi State University, Starkville, Mississippi, 2017
 **Masters of Science in Agriculture: Concentration in Poultry Science**
-*Cumulative GPA: 3.98/4.0
+* Cumulative GPA: 3.98/4.0
 
 Mississippi State University, Starkville, Mississippi, 2016
 **Bachelor of Science in Poultry Science: Concentration in Business Management**
@@ -30,7 +30,7 @@ Commercial Poultry | Design and Analysis of Experiments | Advanced Avian Nutriti
 Diseases of Poultry | Statistical Methods | Pathogenic Microbiology
 Advanced Immunology | Applied Regression for Agricultural Sciences | Microbial Genetics and Bioniformatics
 *Secure Computing for Bioinformatics* | *Practical Programming for Biologists* |
-Italicized courses are those in which are currently enrolled or scheduled to take
+*Italicized* courses are those in which are currently enrolled or scheduled to take
 
 **Equipment and Laboratory Skills:**
 PCR Amplification:
@@ -95,32 +95,32 @@ Tyson Foods, Temperanceville, Virginia
 * Received experience in a poultry processing facility, hatchery, broiler farms, vaccination procedure, pullet farms, and breeder facilities. 
 
 **Accomplishments:**
-April 2017-Present		Member, Gamma Sigma Delta, Honor Society for Agriculture
-January 2013- Present		Member, The National Society of Collegiate Scholars
-August 2012-Present		Member, Mississippi State Poultry Science Club 
-August 2013- May 2016		Member, Mississippi State Collegiate Future Farmers of America
-August 2013- May 2016		Member, Sigma Phi Lambda, Christian Sorority
-August 2013-2014		Liaison, Council of Residential Experience
+April 2017-Present		      Member, Gamma Sigma Delta, Honor Society for Agriculture
+January 2013- Present		    Member, The National Society of Collegiate Scholars
+August 2012-Present		      Member, Mississippi State Poultry Science Club 
+August 2013- May 2016		    Member, Mississippi State Collegiate Future Farmers of America
+August 2013- May 2016		    Member, Sigma Phi Lambda, Christian Sorority
+August 2013-2014		        Liaison, Council of Residential Experience
 
 **Awards:**
-August 2012-Present		Dean’s List
-June 2017			Recipient, DPI Emerson Morgan Graduate Scholarship 
-March 2016			Recipient, Oliver J. Hubbard Memorial Scholarship
-August 2012-June 2016		Recipient, H.F. McCarty, Jr. Family Scholarship
-August 2012-June 2016		Recipient, Robert H. Dunlap Loyalty Scholarship
-August 2015-January 2016	President, MSU Poultry Science Club
-August 2015			Recipient, Edward Ellis Gandy Endowed Scholarship
-July 2015			Award Winner, Poultry Science Association Annual Meeting
-August 2014-June 2015		Recipient, Tyson Foods Endowed Scholarship
-February 2015 			Recipient, Oliver J. Hubbard Memorial Scholarship
-August 2014			Recipient, Eugene Butler Scholarship 
-September - December 2013	Secretary, MSU Poultry Science Club
-September 2013			Inducted into The National Society of Collegiate Scholars
-May 2013			Delegate, National Conference for Residence Hall Association
-January 2013-May 2013		Collaborative Programmer, Sessums Residence Hall Council 
-January 2013			Delegate, Mississippi conference for Residence Hall Association
-October 2012			Delegate, South Atlantic conference of Residence Hall Association 
-August 2012			Recipient, Delmarva Poultry Industry Scholarship
+August 2012-Present		      Dean’s List
+June 2017			              Recipient, DPI Emerson Morgan Graduate Scholarship 
+March 2016			            Recipient, Oliver J. Hubbard Memorial Scholarship
+August 2012-June 2016		    Recipient, H.F. McCarty, Jr. Family Scholarship
+August 2012-June 2016		    Recipient, Robert H. Dunlap Loyalty Scholarship
+August 2015-January 2016	  President, MSU Poultry Science Club
+August 2015		          	  Recipient, Edward Ellis Gandy Endowed Scholarship
+July 2015			              Award Winner, Poultry Science Association Annual Meeting
+August 2014-June 2015		    Recipient, Tyson Foods Endowed Scholarship
+February 2015 			        Recipient, Oliver J. Hubbard Memorial Scholarship
+August 2014			            Recipient, Eugene Butler Scholarship 
+September - December 2013	  Secretary, MSU Poultry Science Club
+September 2013			        Inducted into The National Society of Collegiate Scholars
+May 2013		              	Delegate, National Conference for Residence Hall Association
+January 2013-May 2013		    Collaborative Programmer, Sessums Residence Hall Council 
+January 2013			          Delegate, Mississippi conference for Residence Hall Association
+October 2012			          Delegate, South Atlantic conference of Residence Hall Association 
+August 2012			            Recipient, Delmarva Poultry Industry Scholarship
 
 
   
