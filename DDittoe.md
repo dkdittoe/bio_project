@@ -86,7 +86,6 @@
 - *Residence Advisor*, July 2013- May 2016:
   - Mississippi State University, Starkville, Mississippi
   - Created community among residence, supervised and cared for residents, enforced rules and ensured safety of residents, and coordinated staff development.
-
 - *Internship*, May 2014-July 2014:
   - Tyson Foods, Temperanceville, Virginia
   - Received experience in a poultry processing facility, hatchery, broiler farms, vaccination procedure, pullet farms, and breeder facilities. 
@@ -99,6 +98,7 @@
 | August 2013- May 2016 | Member, Mississippi State Collegiate Future Farmers of America |
 | August 2013- May 2016 | Member, Sigma Phi Lambda, Christian Sorority |
 | August 2013-2014 | Liaison, Council of Residential Experience |
+
 
 | **Awards:** |     |
 | :------------ | ---------- |
