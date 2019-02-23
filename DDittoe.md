@@ -4,20 +4,16 @@
 ### Email: dkdittoe@uark.edu
 
 **Education:**
-- University of Arkansas, Fayetteville, Arkansas, Expected Fall 2020:
+- University of Arkansas, Fayetteville, Arkansas, Expected Fall 2020
   - *Doctor of Philosophy in Cell and Molecular Biology: Concentration in Food Safety*
-  * Cumulative GPA 4.0/4.0
-
+  - Cumulative GPA 4.0/4.0
 - Mississippi State University, Starkville, Mississippi, 2017:
   - *Masters of Science in Agriculture: Concentration in Poultry Science*
-  * Cumulative GPA: 3.98/4.0
-
+  - Cumulative GPA: 3.98/4.0
 - Mississippi State University, Starkville, Mississippi, 2016:
   - *Bachelor of Science in Poultry Science: Concentration in Business Management*
-  * Cumulative GPA: 3.74/4.0
-
+  - Cumulative GPA: 3.74/4.0
 - *Disertation:* The effects of *in ovo* vaccination of prebiotics, probiotics, and their combination in fertile hatching eggs on the gut microbiome and gut health.
-
 - *Thesis:* Evaluating dietary alternatives, lactic acid producing bacteria, butyric acid, and their combination, *in vitro* and *in vivo*.
 
 | **Related Coursework:** |                      |                        |		
@@ -36,26 +32,24 @@
 
 **Equipment and Laboratory Skills:**
 - PCR Amplification:
-  * DNA Extraction, Thermocycler, Photodyne, Gel Electrophoresis 
+  - DNA Extraction, Thermocycler, Photodyne, Gel Electrophoresis 
 - Microbiology:
-  * Anaerobic and Aerobic assays, Media Preparation, Pipetting, Serial Dilution, Inoculation, Streaking, Anoxamat, Most Probable Number, Incubators, Gram Staining 
+  - Anaerobic and Aerobic assays, Media Preparation, Pipetting, Serial Dilution, Inoculation, Streaking, Anoxamat, Most Probable Number, Incubators, Gram Staining 
 - Other:
-  * Particle Size, pH, Water Bath, Scales and Balances, Hazardous Waste Treatment, *In Ovo* Vaccination, Necropsy, and Feed Formulation (basic knowledge), and Animal Husbandry
+  - Particle Size, pH, Water Bath, Scales and Balances, Hazardous Waste Treatment, *In Ovo* Vaccination, Necropsy, and Feed Formulation (basic knowledge), and Animal Husbandry
 - Training:
-  * Hazardous Waste, Bloodborne Pathogens, Biosafety: Principles and Practices, Food Protection
+  - Hazardous Waste, Bloodborne Pathogens, Biosafety: Principles and Practices, Food Protection
 
 **Research and Academic Experience:** 
 - Graduate Research Assistant, U of A, *Spring 2018-Present*:
   - *Pre and Post-Harvest Food Safety*
   - Determining the effects of prebiotics in young broilers (d 0-21) on their gut microbiome development and gut health. Evaluation of various antimicrobial alternatives as interventions in processing facilities and their effect on pathogen mitigation. 
   - Under the direction of Dr. Steve Ricke.
-
 - Graduate Research Assistant, MSU, *Fall 2016-Fall 2017*:
   - *Evaluating Dietary Alternatives, lactic acid producing bacteria, butyric acid, and their combination, *in vitro* and *in vivo*.*
   - Evaluated lactic acid producing bacteria and encapsulated butyric acid on *Salmonella* prevalence, *in vitro*, over an 8h period. Also evaluated the effect of lactic acid producing bacteria and encapsulated butyric acid, and their combination in commercial broiler diets from day 0-57 on performance, processing, intestinal and immune tissues, A1-AGP, and intestinal histology.
   - Three expected publications in Poultry Science 
   - Under the direction of Dr. Aaron Kiess.
-
 - Recipient of CALS’ Undergraduate Research Scholars Program, MSU, *Fall 2014-Spring 2016*:
   - *Windrowing Poultry Litter after a Broiler House is Sprinkled with Water* 
   - Litter was analyzed for moisture, pH, particle size, nitrogen, phosphorus, potassium, and ammonia generation.
@@ -82,23 +76,20 @@
 **Work and Volunteer Experience:**
 - *Graduate Research Assistant*, January 2018-Present:
   - University of Arkansas, Fayetteville, Arkansas
-  * Under the supervision of Dr. Steven Ricke. Dissersation focusing on pre and post harvest food safety at the Center for Food Safety.
-
+  - Under the supervision of Dr. Steven Ricke. Dissersation focusing on pre and post harvest food safety at the Center for Food Safety
 - *Graduate Research Assistant*, May 2016-December 2017:
   - Mississippi State University, Starkville, Mississippi
-  * Under the supervision of Dr. Aaron Kiess. Thesis focusing on evaluation alternatives to antibiotics such as Lactic Acid Producing Bacteria and Organic Acids.
-
+  - Under the supervision of Dr. Aaron Kiess. Thesis focusing on evaluation alternatives to antibiotics such as Lactic Acid Producing Bacteria and Organic Acids.
 - *Undergraduate Research*, January 2014- May 2016:
   - Mississippi State University, Starkville, Mississippi
-  * Assisted Professor Aaron Kiess in his BSL-2 lab. Learned to handle and utilize pathogens such as *Campylobacter*, *E. Coli*, and *Salmonella* in research. Partook in research such as windrowing and the affects it has on the microbial load in litter.
-
+  - Assisted Professor Aaron Kiess in his BSL-2 lab. Learned to handle and utilize pathogens such as *Campylobacter*, *E. Coli*, and *Salmonella* in research. Partook in research such as windrowing and the affects it has on the microbial load in litter.
 - *Residence Advisor*, July 2013- May 2016:
   - Mississippi State University, Starkville, Mississippi
-  * Created community among residence, supervised and cared for residents, enforced rules and ensured safety of residents, and coordinated staff development.
+  - Created community among residence, supervised and cared for residents, enforced rules and ensured safety of residents, and coordinated staff development.
 
 - *Internship*, May 2014-July 2014:
   - Tyson Foods, Temperanceville, Virginia
-  * Received experience in a poultry processing facility, hatchery, broiler farms, vaccination procedure, pullet farms, and breeder facilities. 
+  - Received experience in a poultry processing facility, hatchery, broiler farms, vaccination procedure, pullet farms, and breeder facilities. 
 
 | **Accomplishments:** |                     |       
 | :-------------------- | ---------------------- | 
